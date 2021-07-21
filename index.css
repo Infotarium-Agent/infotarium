@@ -1,0 +1,160 @@
+
+.Front-page {
+  background-color: #6B78F2;
+  width: auto;
+  height: 601px;
+  text-align: center;
+  color: white;
+}
+
+body {
+  margin: 0px 0px 0px 0px;
+    background-color: #6B78F2;
+}
+
+.Short-Intro {
+  position: absolute;
+  text-align: left;
+  font-size: 20px;
+  left: 650px;
+  width: 30%;
+  top: 320px;
+
+}
+
+.Name {
+top: 100px;
+position: absolute;
+left: 500px;
+font-size: 70px;
+}
+
+.Begin {
+  color: white;
+  position: absolute;
+  top: 600px;
+  left: 580px;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+.list {
+
+}
+
+.Categories {
+  margin-top: 130px;
+}
+
+.Con-1 {
+  width: 15%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  float: left;
+  padding-left: 8%;
+  font-size: 25px;
+  color: white;
+
+}
+.Con-2 {
+  width: 15%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  float: left;
+  padding-left: 20%;
+  font-size: 25px;
+  color: white;
+
+}
+.Con-3 {
+  width: 15%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  float: left;
+  padding-left: 20%;
+  font-size: 25px;
+  color: white;
+
+}
+
+
+.Blog {
+  width: 50%;
+  margin: 0 auto;
+  color: white;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.tree {
+  text-align: center;
+}
+
+
+<!-----------------------------------------------------------------NavBar Content---------------------------------------------------------------------->
+.Navbar {
+  height: 100px;
+}
+
+.New-img {
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  top: 300px;
+  left: 440px;
+}
+
+.Old-img {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #9FB4F4;\
+  padding-bottom: 100px;
+}
+
+li {
+  list-style-type: none;
+  float: right;
+  padding-bottom: 18px;
+  margin-top: 20px;
+}
+
+li a {
+  list-style-type: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 300px;
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #B8CCFF;
+}
+
+
+
+.Update-Container {
+  background-color: #89cff0;
+  width: 70%;
+  height: 500px;
+  margin: 40px auto 0 auto;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  color: white;
+
+}
